@@ -6,3 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 nyanmisaka/jellyfin
 dzhuang/tinymediamanager:v3.1.16
+
+ghcr.io/komari-monitor/komari:latest \
+  registry.cn-hangzhou.aliyuncs.com/mkboydocker/komari:latest
