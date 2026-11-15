@@ -1,4 +1,3 @@
-nginx
 #支持私库
 ghcr.io/komari-monitor/komari:latest
   registry.cn-beijing.aliyuncs.com/mkboydocker/komari:latest
