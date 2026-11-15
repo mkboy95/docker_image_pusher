@@ -1,4 +1,4 @@
 nginx
 #支持私库
 ghcr.io/komari-monitor/komari:latest
-  crpi-9fr51kktq0ma2mnq-vpc.cn-beijing.personal.cr.aliyuncs.com/mkboydocker/komari:latest
+  registry.cn-beijing.aliyuncs.com/mkboydocker/komari:latest
